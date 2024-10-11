@@ -1,0 +1,15 @@
+ques:1 Usecase of ifElse ->
+A school has following rules for grading system:
+a. Below 25 - F grade
+b. 25 to 44 - E grade
+c. 45 to 49 - D grade
+d. 50 to 59 - C grade
+e. 60 to 79 - B grade
+f. 80 to 100 - A grade
+Ask user to enter marks and print the corresponding grade.
+
+ques:2 Usecase of ifElse(Nested ifElse) ->
+Take the age from the user and then decide accordingly:
+a. Age below 18 - not eligible for job
+b. Age between 18 to 54 - eligible for job
+c. Age above 57 - retirement time
