@@ -1,2 +1,4 @@
 1.ifElse.cpp-> error: cannot overload functions distinguished by return type alone
 but program is running.
+2. forLoop.cpp-> error: 'i' was not declared in this scope
+'i' was initialised inside the conditional brackets, while printing 'i' outside the scope of forLoop it shows error
