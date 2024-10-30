@@ -13,3 +13,6 @@ Take the age from the user and then decide accordingly:
 a. Age below 18 - not eligible for job
 b. Age between 18 to 54 - eligible for job
 c. Age above 57 - retirement time
+
+ques:3 Usecase of user defined functions ->
+Find maximum among two number and print the result
